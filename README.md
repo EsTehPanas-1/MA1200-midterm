@@ -11,6 +11,6 @@ Open `index.html` in any browser. It is one self-contained file: no internet nee
 - A "Before the Exam" formula sheet, common-mistakes list and exam tips.
 
 ## Using it
-- Use Back/Next or the left/right arrow keys; the contents list jumps to any chapter.
+- Use Back/Next, swipe left/right on a phone, or the left/right arrow keys; the contents list jumps to any chapter.
 - Answers and solutions are hidden until you click "Show the answer and full solution". Tick "Show all solutions" to open them all, or press `S`.
 - Works on phone and desktop, in light and dark mode.
